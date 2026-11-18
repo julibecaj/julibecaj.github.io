@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://julibecaj.github.io/sitemap.xml
